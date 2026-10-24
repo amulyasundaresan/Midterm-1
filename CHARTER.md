@@ -4,6 +4,7 @@ Name	GitHub username	Strongest skill	Want to get better at	Free times this week
 - Kate Peevey	k8_peevey	Cleaning	API	Most evenings
 - Amulya Sundarsen	amulyasundaresan	Visualizations	Data cleaning and SQL	Most evenings
 - Anya Huang	anyahuang66	Weather API + join	python	Tuesday/Thursday afternoon, weekends
+- Ashley Huo    tsukki8     python      debugging + APIs        Evenings on weekdays and weekends
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -18,6 +19,7 @@ Cleaning + decision log: Kate
 Weather API + join: Anya
 Analysis Q1–Q5: Kate, Amulya, Anya
 Charts + presentation, Visualizations: Amulya 
+Debugging: Ashley
 Notebook owner. Amulya Sundaresan
 ________________________________________________________________________________________________________________________________________________________________________________________
 Where do we talk, and how fast do we answer? 
