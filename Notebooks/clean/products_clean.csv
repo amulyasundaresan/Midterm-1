@@ -1,0 +1,46 @@
+sku,product_name,category,subcategory,unit_cost,supplier,package_size,canonical_sku,canonical_product,unit_cost_imputed
+PT-12,pop-tarts strawberry,Breakfast,Unknown,1.93,Johnson & Johnson,4 pack,POPTART-STRAW,Pop-Tarts Strawberry,0
+SKU#459812,Strawberry Pop-Tart,Breakfast,Pop-Tarts,2.26,Roku Inc,4pk,POPTART-STRAW,Pop-Tarts Strawberry,0
+POPTART-STRAW,Pop-Tarts Strawberry,Breakfast,Unknown,2.11,Sara Lee,6 pack,POPTART-STRAW,Pop-Tarts Strawberry,0
+PT_STRAWBERRY,pop-tarts strawberry,Breakfast,Pop-Tarts,2.11,Campbell's,4 pack,POPTART-STRAW,Pop-Tarts Strawberry,1
+WTR-24,BOTTLED WATER 24PK,Emergency Supplies,Bottled,2.64,Sara Lee,1 pack,WTR_24PK,Bottled Water 24-Pack,0
+WATER24PK,Bottled Water 24-Pack,Emergency Supplies,Bottled,2.38,Sara Lee,24 pack,WTR_24PK,Bottled Water 24-Pack,0
+WTR_24PK,Water - 24 Pack,Emergency Supplies,Unknown,2.08,Frito-Lay,1 pack,WTR_24PK,Bottled Water 24-Pack,0
+BATT-100,BATTERIES AA 4PK,Emergency Supplies,AA,3.935,3M Company,6 pack,BATT_AA_4PK,AA Batteries 4-Pack,1
+BAT-AA4,AA Batteries 4-Pack,Emergency Supplies,AA,4.16,Kimberly-Clark,4pk,BATT_AA_4PK,AA Batteries 4-Pack,0
+BATT_AA_4PK,AA Batteries 4-Pack,Emergency Supplies,AA,3.71,Anheuser-Busch,24 pack,BATT_AA_4PK,AA Batteries 4-Pack,0
+FLASH-01,FLASHLIGHT LED,Emergency Supplies,Flashlight,8.2,Frito-Lay,6 pack,FLASH-01,LED Flashlight,1
+LED-FLASH,FLASHLIGHT LED,Emergency Supplies,Unknown,8.2,Frito-Lay,single,FLASH-01,LED Flashlight,0
+BEER-24,Light Beer (24-pack),Alcohol,Unknown,9.62,Hasbro,bundle,BEER-24,Light Beer 24-Pack,0
+LTBEER24,Light Beer (24-pack),Alcohol,Light,7.61,Kellogg's,bundle,BEER-24,Light Beer 24-Pack,0
+BG-MONO,Monopoly Board Game,Game & Entertainment,Unknown,9.96,Kimberly-Clark,1pk,MONOPOLY-01,Monopoly Board Game,0
+MONOPOLY-01,Monopoly Board Game,Game & Entertainment,Unknown,12.51,Georgia-Pacific,24 pack,MONOPOLY-01,Monopoly Board Game,0
+GAME-MONO,Board Game - Monopoly,Game & Entertainment,Unknown,11.235,Campbell's,1pk,MONOPOLY-01,Monopoly Board Game,1
+CARDS-01,Playing Cards,Game & Entertainment,Playing,2.45,J.M. Smucker,4pk,CARDS-01,Playing Cards,0
+PLAYCARD-STD,PLAYING CARDS,Game & Entertainment,Playing,2.39,Georgia-Pacific,24 pack,CARDS-01,Playing Cards,0
+STREAM-01,Roku Streaming Stick,Electronics,Streaming,16.7,3M Company,12 pack,STREAM-01,Roku Streaming Stick,0
+ROKU-STD,Streaming Device,Electronics,Streaming,16.99,Anheuser-Busch,12 pack,STREAM-01,Roku Streaming Stick,0
+SOUP-CAN,Soup - Canned,Grocery,Canned,1.23,J.M. Smucker,single,CNSOUP-01,Canned Soup,0
+CNSOUP-01,Canned Soup,Grocery,Unknown,1.19,Generic Supplier,single,CNSOUP-01,Canned Soup,0
+BREAD-WH,WHITE BREAD,Grocery,Bread,1.53,Procter & Gamble,24 pack,BREAD-WH,White Bread,0
+WHITEBREAD,WHITE BREAD,Grocery,Bread,1.12,Sara Lee,24 pack,BREAD-WH,White Bread,0
+PB-16,PEANUT BUTTER,Grocery,Peanut,1.36,Hasbro,bundle,PB-16,Peanut Butter 16oz,0
+PNUTBTR-16,Peanut Butter,Grocery,Peanut,1.94,Sara Lee,1 pack,PB-16,Peanut Butter 16oz,0
+CNDL-EM,Candles (Emergency),Emergency Supplies,Candles,3.81,Frito-Lay,1 pack,CNDL-EM,Emergency Candles,0
+CANDLE-EMRG,Emergency Candles,Emergency Supplies,Candles,3.43,Roku Inc,24pk,CNDL-EM,Emergency Candles,0
+FAID-01,First-Aid Kit,Health,First,6.9,Anheuser-Busch,4 pack,FAID-01,First-Aid Kit,0
+FIRSTAID-KIT,First Aid Kit,Health,Unknown,7.85,J.M. Smucker,4 pack,FAID-01,First-Aid Kit,0
+CHRG-PORT,PORTABLE CHARGER,Electronics,Unknown,11.99,Georgia-Pacific,single,CHRG-PORT,Portable Charger,0
+PORTCHARGER,Portable Phone Charger,Electronics,Portable,15.03,Johnson & Johnson,12 pack,CHRG-PORT,Portable Charger,0
+CHIPS-VP,Variety Pack - Chips,Snacks,Chips,4.03,Frito-Lay,single,CHIPS-VP,Chips Variety Pack,0
+CHIPVARIETY,Chips Variety Pack,Snacks,Chips,4.11,Generic Supplier,4 pack,CHIPS-VP,Chips Variety Pack,0
+PTOWEL-6,Paper Towels,Household,Paper,3.85,Campbell's,4 pack,PAPERTOWEL6,Paper Towels 6-Pack,0
+PAPERTOWEL6,Paper Towels,Household,Paper,5.09,Georgia-Pacific,12 pack,PAPERTOWEL6,Paper Towels 6-Pack,0
+TP-12,TOILET PAPER 12PK,Household,Toilet,5.58,Campbell's,1 pack,TOILETPAPER12,Toilet Paper 12-Roll,0
+TOILETPAPER12,Toilet Paper 12-Roll,Household,Toilet,5.75,J.M. Smucker,24 pack,TOILETPAPER12,Toilet Paper 12-Roll,0
+DIAP-S3,Baby Diapers - Size 3,Baby Products,Diapers,14.4,Procter & Gamble,single,DIAPERS-3,Baby Diapers Size 3,0
+DIAPERS-3,DIAPERS SZ 3,Baby Products,Diapers,13.59,Generic Supplier,6 pack,DIAPERS-3,Baby Diapers Size 3,0
+BFORM-01,Infant Formula,Baby Products,Baby,18.87,Procter & Gamble,4 pack,BABYFORMULA,Infant Formula,0
+BABYFORMULA,Baby Formula,Baby Products,Unknown,18.25,Sara Lee,6 pack,BABYFORMULA,Infant Formula,0
+TARP-HD,Heavy Duty Tarp,Emergency Supplies,Unknown,11.9,J.M. Smucker,12 pack,TARP-HD,Heavy Duty Tarp,0
+HDTARP-01,TARP - HEAVY DUTY,Emergency Supplies,Tarp,11.9,J.M. Smucker,24pk,TARP-HD,Heavy Duty Tarp,1
