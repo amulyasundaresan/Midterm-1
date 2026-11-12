@@ -1,2 +1,2 @@
 # Midterm-1
-Amulya Sundaresan, Anya Huang
+Amulya Sundaresan, Anya Huang, Kate Peevey, Ashley Huo
