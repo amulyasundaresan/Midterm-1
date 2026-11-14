@@ -1,5 +1,5 @@
 How to Run It:
-Run the notebook from bottom to top in order to see code outputs and visualizations. Data cleaning and pipeline are first in the notebook, scroll down to see Weather API joining. Answers to questions 1-5 and visualizations are located at the end. 
+Run the notebook from bottom to top in order to see code outputs and visualizations. Data cleaning and pipeline are first in the notebook, scroll down to see Weather API joining. Answers to questions 1-5 and visualizations are located at the end. Our team charter is located above this file. To access our main notebook, navigate to the "Notebooks" tab and click on midterm_combined_notebook. Our clean data is located in the "clean" folder within the Notebooks tab. Our raw data is located in the Data tab above Notebooks. 
 
 Reflection
 
