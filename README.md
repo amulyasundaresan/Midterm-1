@@ -1,4 +1,5 @@
 How to Run It:
+Run the notebook from bottom to top in order to see code outputs and visualizations. Data cleaning and pipeline are first in the notebook, scroll down to see Weather API joining. Answers to questions 1-5 and visualizations are located at the end. 
 
 Reflection
 
